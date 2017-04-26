@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="checkin" max_length="40" name="x_118804_checkin_checkin" type="collection">
+        <element label="Company" max_length="100" name="x_company" type="string"/>
+        <element label="EMail" mandatory="true" max_length="100" name="x_email" type="string"/>
+        <element display="true" label="Name" mandatory="true" max_length="100" name="x_name" type="string"/>
+        <element label="Title" max_length="100" name="x_title" type="string"/>
+    </element>
+</database>

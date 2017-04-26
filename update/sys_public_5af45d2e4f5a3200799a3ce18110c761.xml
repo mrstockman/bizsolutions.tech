@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_public">
+    <sys_public action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <page>checkin_checkin_list</page>
+        <sys_class_name>sys_public</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-26 03:00:13</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5af45d2e4f5a3200799a3ce18110c761</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>checkin_checkin_list</sys_name>
+        <sys_package display_value="CheckIn" source="x_118804_checkin">4a29afc24f123200799a3ce18110c70b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CheckIn">4a29afc24f123200799a3ce18110c70b</sys_scope>
+        <sys_update_name>sys_public_5af45d2e4f5a3200799a3ce18110c761</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-26 03:00:13</sys_updated_on>
+    </sys_public>
+</record_update>
