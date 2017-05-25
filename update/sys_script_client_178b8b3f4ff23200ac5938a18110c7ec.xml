@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>x_company</field>
+        <global>true</global>
+        <messages/>
+        <name>Submit_Checkin</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+	alert("Thank you for registering! You can close your browser now.");
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-25 05:22:46</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>178b8b3f4ff23200ac5938a18110c7ec</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Submit_Checkin</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CheckIn" source="x_118804_checkin">4a29afc24f123200799a3ce18110c70b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CheckIn">4a29afc24f123200799a3ce18110c70b</sys_scope>
+        <sys_update_name>sys_script_client_178b8b3f4ff23200ac5938a18110c7ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-25 06:10:09</sys_updated_on>
+        <table>x_118804_checkin_checkin</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

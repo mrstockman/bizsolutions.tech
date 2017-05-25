@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-25 00:32:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>8389a7064f123200799a3ce18110c715</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_118804_checkin_checkin.x_118804_checkin.checkin_user</sys_name>

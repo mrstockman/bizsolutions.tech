@@ -5,7 +5,6 @@
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
-        <license_model>none</license_model>
         <logo/>
         <menu display_value="CheckIn">478927c24f123200799a3ce18110c76a</menu>
         <name>CheckIn</name>
